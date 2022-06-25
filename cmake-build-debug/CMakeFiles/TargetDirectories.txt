@@ -1,0 +1,3 @@
+/home/phm/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/webserver.dir
+/home/phm/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/phm/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
