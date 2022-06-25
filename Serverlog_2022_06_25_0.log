@@ -1,0 +1,78 @@
+2022-06-25 21:20:33 [INF]: root path:/home/phm/CLionProjects/WebServer
+2022-06-25 21:20:33 [INF]: using port:1234
+2022-06-25 21:20:58 [INF]: GET / HTTP/1.1
+2022-06-25 21:20:58 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:20:58 [INF]: set-cookie:
+2022-06-25 21:20:58 [INF]: Content-Length:727
+2022-06-25 21:20:58 [INF]: Connection:keep-alive
+2022-06-25 21:20:59 [INF]: GET /favicon.ico HTTP/1.1
+2022-06-25 21:20:59 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:20:59 [INF]: set-cookie:
+2022-06-25 21:20:59 [INF]: Content-Length:16317
+2022-06-25 21:20:59 [INF]: Connection:keep-alive
+2022-06-25 21:21:01 [INF]: GET /pages/login.html HTTP/1.1
+2022-06-25 21:21:01 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:21:01 [INF]: set-cookie:
+2022-06-25 21:21:01 [INF]: Content-Length:667
+2022-06-25 21:21:01 [INF]: Connection:keep-alive
+2022-06-25 21:21:05 [INF]: POST /pages/login HTTP/1.1
+2022-06-25 21:21:05 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:21:05 [INF]: set-cookie:AC61423C01C92D3ADC18977F373AEBB0
+2022-06-25 21:21:05 [INF]: Content-Length:404
+2022-06-25 21:21:05 [INF]: Connection:keep-alive
+2022-06-25 21:21:05 [INF]: GET /img/bg.jpg HTTP/1.1
+2022-06-25 21:21:05 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:21:05 [INF]: set-cookie:
+2022-06-25 21:21:05 [INF]: Content-Length:22016
+2022-06-25 21:21:05 [INF]: Connection:keep-alive
+2022-06-25 21:21:23 [INF]: timer tick time_heap.size = 1(before):0
+2022-06-25 21:22:06 [INF]: root path:/home/phm/CLionProjects/WebServer
+2022-06-25 21:22:06 [INF]: using port:1234
+2022-06-25 21:22:13 [INF]: POST /pages/login HTTP/1.1
+2022-06-25 21:22:13 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:22:13 [INF]: set-cookie:062BEF4D0C610D5BFA93B8E419B8E7F9
+2022-06-25 21:22:13 [INF]: Content-Length:404
+2022-06-25 21:22:13 [INF]: Connection:keep-alive
+2022-06-25 21:22:13 [INF]: GET /img/bg.jpg HTTP/1.1
+2022-06-25 21:22:13 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:22:13 [INF]: set-cookie:
+2022-06-25 21:22:13 [INF]: Content-Length:66319
+2022-06-25 21:22:13 [INF]: Connection:keep-alive
+2022-06-25 21:22:31 [INF]: timer tick time_heap.size = 1(before):0
+2022-06-25 21:24:38 [INF]: root path:/home/phm/CLionProjects/WebServer
+2022-06-25 21:24:38 [INF]: using port:1234
+2022-06-25 21:24:42 [INF]: POST /pages/login HTTP/1.1
+2022-06-25 21:24:42 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:24:42 [INF]: set-cookie:831E5A34CEC06F5D9FA71119F877F59C
+2022-06-25 21:24:42 [INF]: Content-Length:404
+2022-06-25 21:24:42 [INF]: Connection:keep-alive
+2022-06-25 21:24:42 [INF]: GET /img/bg.jpg HTTP/1.1
+2022-06-25 21:24:42 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:24:42 [INF]: set-cookie:
+2022-06-25 21:24:42 [INF]: Content-Length:66319
+2022-06-25 21:24:42 [INF]: Connection:keep-alive
+2022-06-25 21:24:59 [INF]: root path:/home/phm/CLionProjects/WebServer
+2022-06-25 21:24:59 [INF]: using port:1234
+2022-06-25 21:25:02 [INF]: POST /pages/login HTTP/1.1
+2022-06-25 21:25:02 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:25:02 [INF]: set-cookie:6D30B7646D7363E8B0A83DC7006D9119
+2022-06-25 21:25:02 [INF]: Content-Length:403
+2022-06-25 21:25:02 [INF]: Connection:keep-alive
+2022-06-25 21:25:02 [INF]: GET /img/bg.jpg HTTP/1.1
+2022-06-25 21:25:02 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:25:02 [INF]: set-cookie:
+2022-06-25 21:25:02 [INF]: Content-Length:66319
+2022-06-25 21:25:02 [INF]: Connection:keep-alive
+2022-06-25 21:25:12 [INF]: root path:/home/phm/CLionProjects/WebServer
+2022-06-25 21:25:12 [INF]: using port:1234
+2022-06-25 21:25:15 [INF]: POST /pages/login HTTP/1.1
+2022-06-25 21:25:15 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:25:15 [INF]: set-cookie:07C635A9131D9F0AA6FA52A8685C22CE
+2022-06-25 21:25:15 [INF]: Content-Length:404
+2022-06-25 21:25:15 [INF]: Connection:keep-alive
+2022-06-25 21:25:15 [INF]: GET /img/bg.jpg HTTP/1.1
+2022-06-25 21:25:15 [INF]: response: HTTP/1.1 200 OK
+2022-06-25 21:25:15 [INF]: set-cookie:
+2022-06-25 21:25:15 [INF]: Content-Length:66319
+2022-06-25 21:25:15 [INF]: Connection:keep-alive
+2022-06-25 21:25:27 [INF]: timer tick time_heap.size = 1(before):0
